@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+I'm a onlylaver.
+Just android machine!
+Yeah!
